@@ -1,6 +1,7 @@
 # Terraform Portfolio:
 
-# The above codebase contains the following projects (more to be added regularly)
+# The above codebase contains the following projects: 
+(more to be added regularly)
 
 04/01/2024:
 
